@@ -1,0 +1,37 @@
+[
+  {
+    "content": {
+      "en": {
+        "Tags": [
+          "awesome"
+        ],
+        "Author": "John Doe",
+        "Publish date": "2017-08-01T22:00:00.000Z",
+        "Read time": "1",
+        "Body": "<p>Welcome to <strong>Headless!</strong></p>",
+        "Title": "my first post",
+        "Draft": false
+      }
+    },
+    "created": "2017-08-02T17:06:51.802Z",
+    "updated": "2017-08-02T17:23:17.094Z"
+  },
+  {
+    "content": {
+      "en": {
+        "Tags": [
+          "hello",
+          "world"
+        ],
+        "Author": "John Doe",
+        "Publish date": "2017-08-01T22:00:00.000Z",
+        "Read time": "2",
+        "Body": "<p>If you have any questions about Headless, feel free to send us a message. We are happy to help!</p>",
+        "Title": "another post",
+        "Draft": false
+      }
+    },
+    "created": "2017-08-02T17:07:59.756Z",
+    "updated": "2017-08-02T17:22:57.508Z"
+  }
+]
