@@ -28,8 +28,8 @@ class App extends Component {
           {
             posts.map((item, i) => {
               return <div>
-                <h3>{item.content.en.Title}</h3>
-                <div dangerouslySetInnerHTML={createMarkup(item.content.en.Body)}></div>
+                <h3>{item.content.en.title}</h3>
+                <div dangerouslySetInnerHTML={createMarkup(item.content.en.body)}></div>
               </div>
             })
           }
